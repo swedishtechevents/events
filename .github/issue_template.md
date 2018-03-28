@@ -8,6 +8,7 @@ Description: The best event
 City: Stockholm
 Date: 2018-01-01 19:00:00
 Link: http://example.com
+Free: false
 -->
 
 Title: [event title]
@@ -15,3 +16,4 @@ Description: [event description]
 City: [event city]
 Date: [event date (format: 2018-01-01 01:01:01)]
 Link: [link to event]
+Free: [true or false, must be exact false if not free]
